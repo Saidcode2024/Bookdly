@@ -1,3 +1,3 @@
 
-//said
-var num=44
+var num=44;
+alert(num);
