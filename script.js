@@ -6,7 +6,7 @@ var server_urlbook = {}
 
 
 server_urlbook[0] = [
-    ['15-BTaQ8pAYqMGYVq3cNtfDf1GrLflBws' , 'أغنى رجل فى بابل' , 'AR' , '130' , 'about book' , 'https://drive.google.com/file/d/15HpW5wAOpMsSxYx7ZI-RNMNeC_J9AUfB/view?usp=drivesdk']] 
+    ['15-BTaQ8pAYqMGYVq3cNtfDf1GrLflBws' , 'أغنى رجل فى بابل' , 'AR' , '110' , 'about book' , 'https://drive.google.com/file/d/15HpW5wAOpMsSxYx7ZI-RNMNeC_J9AUfB/view?usp=drivesdk']] 
 
 server_urlbook[1] = [
 
